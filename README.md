@@ -97,4 +97,16 @@ Acesse o projeto
 [http://localhost:8989](http://localhost:8989)
 
 
-github: https://github.com/VictorPadovan1997/setup-docker-laravel-10
+###Extensions for VS Code:
+- Docker: by Microsoft
+- Docker Linter: by Henrik Sjooh
+- DotENV: BY mikestead
+- Image preview: by Kiss Tamás
+- IntelliSense for CSS class names in HTML: by Zignd
+- Laravel Artisan: by Ryan Naddy
+- Laravel Blade formatter: by Shuhei Hayashibara
+- Laravel Blade Snippets: by Winnie Lin
+- Laravel Blade Wrapper: by IHunte
+- Laravel Intellisense: by Mohamed Benhida
+- PHP Debug: by Xdebug (link: https://www.youtube.com/watch?v=MDUAxMPYQPA)
+- PHP Intelephense: by Ben Bewburn
